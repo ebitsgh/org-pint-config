@@ -97,6 +97,10 @@
         "ordered_imports": true,
 
         "declare_strict_types": true,
-        "binary_operator_spaces": true
+        "binary_operator_spaces": true,
+
+        "return_type_declaration": {
+            "space_before": "none"
+        }
     }
 }
