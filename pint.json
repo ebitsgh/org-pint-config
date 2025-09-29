@@ -99,8 +99,8 @@
         "declare_strict_types": true,
         "binary_operator_spaces": true,
 
-        "return_type_declaration": {
-            "space_before": "none"
+        "concat_space": {
+            "spacing": "one"
         }
     }
 }
