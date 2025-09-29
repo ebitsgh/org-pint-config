@@ -99,9 +99,8 @@
         "declare_strict_types": true,
         "binary_operator_spaces": true,
 
-        "void_return": true,
         "return_type_declaration": {
-            "space_before": "one"
+            "space_before": "none"
         }
     }
 }
