@@ -97,10 +97,6 @@
         "ordered_imports": true,
 
         "declare_strict_types": true,
-        "binary_operator_spaces": true,
-
-        "concat_space": {
-            "spacing": "one"
-        }
+        "binary_operator_spaces": true
     }
 }
