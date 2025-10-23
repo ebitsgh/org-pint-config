@@ -69,7 +69,7 @@
         "lambda_not_used_import": true,
         "no_unneeded_import_alias": true,
         "no_unused_imports": true,
-        "fully_qualified_strict_types": false,
+        "fully_qualified_strict_types": true,
 
         "nullable_type_declaration": {
             "syntax": "union"
@@ -96,7 +96,7 @@
 
         "ordered_imports": true,
 
-        "declare_strict_types": false,
+        "declare_strict_types": true,
         "binary_operator_spaces": true
     }
 }
