@@ -35,9 +35,7 @@
         },
         "phpdoc_param_order": true,
         "phpdoc_separation": true,
-        "phpdoc_add_missing_param_annotation": {
-            "only_untyped": false
-        },
+        "phpdoc_add_missing_param_annotation": false,
         "phpdoc_scalar": true,
         "no_blank_lines_after_phpdoc": true,
         "no_empty_phpdoc": true,
